@@ -1,4 +1,4 @@
-# Networking
+# Funny Networking
 ## Getting started
 Some funny networking task in python script.
 1. Task 1: We have a nginx access log file. Write python script to have a browser statistics. 
